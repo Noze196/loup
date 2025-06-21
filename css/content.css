@@ -1,0 +1,45 @@
+/* 内容模块样式 */
+.content-section-module {
+    padding: 3rem 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+
+
+.section-heading-title {
+    margin-bottom: 2rem;
+    font-size: 2.5rem;
+    color: #333;
+    text-align: center;
+    font-weight: bold;
+}
+
+.content-area-wrapper {
+    background-color: rgba(255, 255, 255, 0.4); /* 白色背景，70% 透明度 */
+    padding: 2rem;
+    border-radius: 10px;
+    min-height: 300px;
+    margin-bottom: 2rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+/* 项目优势模块中的p标签样式 */
+.section-heading-p {
+    text-align: center;
+    font-size: 1.2rem;
+    color: #666;
+    margin: 1rem auto;
+    max-width: 600px;
+    line-height: 1.6;
+}
+
+.content-placeholder-area {
+    color: #999;
+    font-style: italic;
+    text-align: center;
+    padding: 2rem;
+    border: 2px dashed #ddd;
+    border-radius: 8px;
+}

@@ -1,0 +1,20 @@
+/* 基础重置和通用样式 */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(201, 218, 210);
+    /* 修改整体背景颜色 */
+}
